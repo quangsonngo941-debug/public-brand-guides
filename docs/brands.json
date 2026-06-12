@@ -1,52 +1,3008 @@
 [
   {
-    "brand": "9kbet",
-    "url": "https://9kbett.uk.com",
-    "page": "brands/9kbet.html"
+    "brand": "001win",
+    "url": "https://001win.br.com",
+    "page": "brands/001win.html",
+    "group": "0"
   },
   {
-    "brand": "777gbet",
-    "url": "https://777gbet.io",
-    "page": "brands/777gbet.html"
+    "brand": "0099bet",
+    "url": "https://0099betbrasil.com",
+    "page": "brands/0099bet.html",
+    "group": "0"
   },
   {
-    "brand": "79bet",
-    "url": "https://79betapp.br.com",
-    "page": "brands/79bet.html"
+    "brand": "00bet",
+    "url": "https://00bet.br.com",
+    "page": "brands/00bet.html",
+    "group": "0"
   },
   {
-    "brand": "81bet",
-    "url": "https://81betcasino.io",
-    "page": "brands/81bet.html"
+    "brand": "010bet",
+    "url": "https://010betbrasil.com",
+    "page": "brands/010bet.html",
+    "group": "0"
+  },
+  {
+    "brand": "017bet",
+    "url": "https://017bet.br.com",
+    "page": "brands/017bet.html",
+    "group": "0"
+  },
+  {
+    "brand": "020bet",
+    "url": "https://020betbrasil.com",
+    "page": "brands/020bet.html",
+    "group": "0"
+  },
+  {
+    "brand": "088bet",
+    "url": "https://088betbrasil.com",
+    "page": "brands/088bet.html",
+    "group": "0"
+  },
+  {
+    "brand": "10brl",
+    "url": "https://10brlbrasil.com",
+    "page": "brands/10brl.html",
+    "group": "1"
+  },
+  {
+    "brand": "10win",
+    "url": "https://10winbrasil.com",
+    "page": "brands/10win.html",
+    "group": "1"
+  },
+  {
+    "brand": "116bet",
+    "url": "https://116betco.com",
+    "page": "brands/116bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "11pg",
+    "url": "https://11pg.br.com",
+    "page": "brands/11pg.html",
+    "group": "1"
+  },
+  {
+    "brand": "122bet",
+    "url": "https://122bet.it.com",
+    "page": "brands/122bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "123game",
+    "url": "https://123gamebrasil.com",
+    "page": "brands/123game.html",
+    "group": "1"
+  },
+  {
+    "brand": "123vip",
+    "url": "https://123vipbrasil.com",
+    "page": "brands/123vip.html",
+    "group": "1"
+  },
+  {
+    "brand": "124bet",
+    "url": "https://124betbrasil.com",
+    "page": "brands/124bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "125bet",
+    "url": "https://125betbrasil.com",
+    "page": "brands/125bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "126bet",
+    "url": "https://126betbrasil.com",
+    "page": "brands/126bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "128bet",
+    "url": "https://128betbrasil.com",
+    "page": "brands/128bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "129bet",
+    "url": "https://129betbrasil.com",
+    "page": "brands/129bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "134bet",
+    "url": "https://134betbrasil.com",
+    "page": "brands/134bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "137bet",
+    "url": "https://137betbrasil.com",
+    "page": "brands/137bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "138bet",
+    "url": "https://138betbrasil.com",
+    "page": "brands/138bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "14win",
+    "url": "https://14winbrasil.com",
+    "page": "brands/14win.html",
+    "group": "1"
+  },
+  {
+    "brand": "156bet",
+    "url": "https://156betbrasil.com",
+    "page": "brands/156bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "158bet",
+    "url": "https://158betbrasil.com",
+    "page": "brands/158bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "159bet",
+    "url": "https://159bet.br.com",
+    "page": "brands/159bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "15wim",
+    "url": "https://15wim.br.com",
+    "page": "brands/15wim.html",
+    "group": "1"
+  },
+  {
+    "brand": "160bet",
+    "url": "https://160betbrasil.com",
+    "page": "brands/160bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "168bet",
+    "url": "https://168betbrasil.com",
+    "page": "brands/168bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "178bet",
+    "url": "https://178betbrasil.com",
+    "page": "brands/178bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "188win",
+    "url": "https://188winbrasil.com",
+    "page": "brands/188win.html",
+    "group": "1"
+  },
+  {
+    "brand": "192bet",
+    "url": "https://192bet.br.com",
+    "page": "brands/192bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "193bet",
+    "url": "https://193bet.br.com",
+    "page": "brands/193bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "1977bet",
+    "url": "https://1977betbrasil.com",
+    "page": "brands/1977bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "1992bet",
+    "url": "https://1992betbrasil.com",
+    "page": "brands/1992bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "1993bet",
+    "url": "https://1993betbrasil.com",
+    "page": "brands/1993bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "1999bet",
+    "url": "https://1999betbrasil.com",
+    "page": "brands/1999bet.html",
+    "group": "1"
+  },
+  {
+    "brand": "1wim",
+    "url": "https://1wim.br.com",
+    "page": "brands/1wim.html",
+    "group": "1"
+  },
+  {
+    "brand": "1wwin",
+    "url": "https://1wwinn.com",
+    "page": "brands/1wwin.html",
+    "group": "1"
+  },
+  {
+    "brand": "202bet",
+    "url": "https://202betbrasil.com",
+    "page": "brands/202bet.html",
+    "group": "2"
   },
   {
     "brand": "20bet",
     "url": "https://20bett.br.com",
-    "page": "brands/20bet.html"
+    "page": "brands/20bet.html",
+    "group": "2"
   },
   {
-    "brand": "72pagbet",
-    "url": "https://72pagbet.br.com",
-    "page": "brands/72pagbet.html"
+    "brand": "222wim",
+    "url": "https://222wimbrasil.com",
+    "page": "brands/222wim.html",
+    "group": "2"
+  },
+  {
+    "brand": "22888bet",
+    "url": "https://22888betbrasil.com",
+    "page": "brands/22888bet.html",
+    "group": "2"
+  },
+  {
+    "brand": "235bet",
+    "url": "https://235bet.br.com",
+    "page": "brands/235bet.html",
+    "group": "2"
+  },
+  {
+    "brand": "236bet",
+    "url": "https://236bet.io",
+    "page": "brands/236bet.html",
+    "group": "2"
+  },
+  {
+    "brand": "255bet",
+    "url": "https://255betcom.net",
+    "page": "brands/255bet.html",
+    "group": "2"
+  },
+  {
+    "brand": "257bet",
+    "url": "https://257bet.br.com",
+    "page": "brands/257bet.html",
+    "group": "2"
+  },
+  {
+    "brand": "303bet",
+    "url": "https://303betbrasil.com",
+    "page": "brands/303bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "316bet",
+    "url": "https://316betbrasil.com",
+    "page": "brands/316bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "325bet",
+    "url": "https://325betbrasil.com",
+    "page": "brands/325bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "3300bet",
+    "url": "https://3300betbrasil.com",
+    "page": "brands/3300bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "333win",
+    "url": "https://333winbrasil.com",
+    "page": "brands/333win.html",
+    "group": "3"
+  },
+  {
+    "brand": "334bet",
+    "url": "https://334betbrasil.com",
+    "page": "brands/334bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "33brl",
+    "url": "https://33brlbrasil.com",
+    "page": "brands/33brl.html",
+    "group": "3"
+  },
+  {
+    "brand": "3555bet",
+    "url": "https://3555betbrasil.com",
+    "page": "brands/3555bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "358bet",
+    "url": "https://358betbrasil.com",
+    "page": "brands/358bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "359bet",
+    "url": "https://359betbrasil.com",
+    "page": "brands/359bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "360bet",
+    "url": "https://360betbrasil.com",
+    "page": "brands/360bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "364bet",
+    "url": "https://364betbrasil.com",
+    "page": "brands/364bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "365jogo",
+    "url": "https://365jogobrasil.com",
+    "page": "brands/365jogo.html",
+    "group": "3"
+  },
+  {
+    "brand": "365pg",
+    "url": "https://365pg.br.com",
+    "page": "brands/365pg.html",
+    "group": "3"
+  },
+  {
+    "brand": "365score",
+    "url": "https://365score.br.com",
+    "page": "brands/365score.html",
+    "group": "3"
+  },
+  {
+    "brand": "368bet",
+    "url": "https://368betbrasil.com",
+    "page": "brands/368bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "377bet",
+    "url": "https://377bett.online",
+    "page": "brands/377bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "389bet",
+    "url": "https://389betbrasil.com",
+    "page": "brands/389bet.html",
+    "group": "3"
+  },
+  {
+    "brand": "41bet",
+    "url": "https://41betbrasil.com",
+    "page": "brands/41bet.html",
+    "group": "4"
+  },
+  {
+    "brand": "4242bet",
+    "url": "https://4242betbrasil.com",
+    "page": "brands/4242bet.html",
+    "group": "4"
+  },
+  {
+    "brand": "444wim",
+    "url": "https://444wimbrasil.com",
+    "page": "brands/444wim.html",
+    "group": "4"
+  },
+  {
+    "brand": "444win",
+    "url": "https://444wincom.net",
+    "page": "brands/444win.html",
+    "group": "4"
+  },
+  {
+    "brand": "445bet",
+    "url": "https://445bet.br.com",
+    "page": "brands/445bet.html",
+    "group": "4"
+  },
+  {
+    "brand": "44win",
+    "url": "https://44winbrasil.com",
+    "page": "brands/44win.html",
+    "group": "4"
+  },
+  {
+    "brand": "450bet",
+    "url": "https://450betbrasil.com",
+    "page": "brands/450bet.html",
+    "group": "4"
+  },
+  {
+    "brand": "45br",
+    "url": "https://45br.br.com",
+    "page": "brands/45br.html",
+    "group": "4"
+  },
+  {
+    "brand": "474bet",
+    "url": "https://474bet.br.com",
+    "page": "brands/474bet.html",
+    "group": "4"
+  },
+  {
+    "brand": "4kbet",
+    "url": "https://4kbet.br.com",
+    "page": "brands/4kbet.html",
+    "group": "4"
+  },
+  {
+    "brand": "511bet",
+    "url": "https://511bet.br.com",
+    "page": "brands/511bet.html",
+    "group": "5"
+  },
+  {
+    "brand": "520bet",
+    "url": "https://520betbrasil.com",
+    "page": "brands/520bet.html",
+    "group": "5"
+  },
+  {
+    "brand": "523bet",
+    "url": "https://523betbrasil.com",
+    "page": "brands/523bet.html",
+    "group": "5"
   },
   {
     "brand": "5500bet",
     "url": "https://5500bet.studio",
-    "page": "brands/5500bet.html"
+    "page": "brands/5500bet.html",
+    "group": "5"
+  },
+  {
+    "brand": "550bet",
+    "url": "https://550betbrasil.com",
+    "page": "brands/550bet.html",
+    "group": "5"
+  },
+  {
+    "brand": "5555win",
+    "url": "https://5555winbrasil.com",
+    "page": "brands/5555win.html",
+    "group": "5"
+  },
+  {
+    "brand": "555wim",
+    "url": "https://555wimbrasil.com",
+    "page": "brands/555wim.html",
+    "group": "5"
+  },
+  {
+    "brand": "556bet",
+    "url": "https://556bett.org",
+    "page": "brands/556bet.html",
+    "group": "5"
+  },
+  {
+    "brand": "55933bet",
+    "url": "https://55933bet.br.com",
+    "page": "brands/55933bet.html",
+    "group": "5"
+  },
+  {
+    "brand": "5599bet",
+    "url": "https://5599betbrasil.com",
+    "page": "brands/5599bet.html",
+    "group": "5"
+  },
+  {
+    "brand": "55luck",
+    "url": "https://55luckbrasil.com",
+    "page": "brands/55luck.html",
+    "group": "5"
+  },
+  {
+    "brand": "55m",
+    "url": "https://55m.br.com",
+    "page": "brands/55m.html",
+    "group": "5"
+  },
+  {
+    "brand": "55win",
+    "url": "https://55winbrasil.com",
+    "page": "brands/55win.html",
+    "group": "5"
+  },
+  {
+    "brand": "5637bet",
+    "url": "https://5637betbrasil.com",
+    "page": "brands/5637bet.html",
+    "group": "5"
+  },
+  {
+    "brand": "567wim",
+    "url": "https://567wim.br.com",
+    "page": "brands/567wim.html",
+    "group": "5"
+  },
+  {
+    "brand": "567win",
+    "url": "https://567win.br.com",
+    "page": "brands/567win.html",
+    "group": "5"
+  },
+  {
+    "brand": "568bet",
+    "url": "https://568betbrasil.com",
+    "page": "brands/568bet.html",
+    "group": "5"
+  },
+  {
+    "brand": "57wim",
+    "url": "https://57wim.br.com",
+    "page": "brands/57wim.html",
+    "group": "5"
+  },
+  {
+    "brand": "5mpg",
+    "url": "https://5mpg.br.com",
+    "page": "brands/5mpg.html",
+    "group": "5"
+  },
+  {
+    "brand": "5ubet",
+    "url": "https://5ubet.br.com",
+    "page": "brands/5ubet.html",
+    "group": "5"
+  },
+  {
+    "brand": "5wim",
+    "url": "https://5wim.br.com",
+    "page": "brands/5wim.html",
+    "group": "5"
+  },
+  {
+    "brand": "611bet",
+    "url": "https://611betbrasil.com",
+    "page": "brands/611bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "6171bet",
+    "url": "https://6171bet.br.com",
+    "page": "brands/6171bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "618bet",
+    "url": "https://618betbrasil.com",
+    "page": "brands/618bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "64bet",
+    "url": "https://64bet.br.com",
+    "page": "brands/64bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "6500bet",
+    "url": "https://6500betbrasil.com",
+    "page": "brands/6500bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "650bet",
+    "url": "https://650betbrasil.com",
+    "page": "brands/650bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "654bet",
+    "url": "https://654betbrasil.com",
+    "page": "brands/654bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "657bet",
+    "url": "https://657betbrasil.com",
+    "page": "brands/657bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "662bet",
+    "url": "https://662bet.br.com",
+    "page": "brands/662bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "6633bet",
+    "url": "https://6633betbrasil.com",
+    "page": "brands/6633bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "6665bet",
+    "url": "https://6665betbrasil.com",
+    "page": "brands/6665bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "667bet",
+    "url": "https://667betco.com",
+    "page": "brands/667bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "6680bet",
+    "url": "https://6680betbrasil.com",
+    "page": "brands/6680bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "66brl",
+    "url": "https://66brl.br.com",
+    "page": "brands/66brl.html",
+    "group": "6"
   },
   {
     "brand": "67bet",
     "url": "https://67bet.click",
-    "page": "brands/67bet.html"
+    "page": "brands/67bet.html",
+    "group": "6"
+  },
+  {
+    "brand": "6zbet",
+    "url": "https://6zbetbrasil.com",
+    "page": "brands/6zbet.html",
+    "group": "6"
+  },
+  {
+    "brand": "70bet",
+    "url": "https://70bets.win",
+    "page": "brands/70bet.html",
+    "group": "7"
+  },
+  {
+    "brand": "7200bet",
+    "url": "https://7200betbrasil.com",
+    "page": "brands/7200bet.html",
+    "group": "7"
+  },
+  {
+    "brand": "72pagbet",
+    "url": "https://72pagbet.br.com",
+    "page": "brands/72pagbet.html",
+    "group": "7"
+  },
+  {
+    "brand": "770bet",
+    "url": "https://770betbrasil.com",
+    "page": "brands/770bet.html",
+    "group": "7"
+  },
+  {
+    "brand": "775bet",
+    "url": "https://775betcom.net",
+    "page": "brands/775bet.html",
+    "group": "7"
+  },
+  {
+    "brand": "7777",
+    "url": "https://7777.br.com",
+    "page": "brands/7777.html",
+    "group": "7"
+  },
+  {
+    "brand": "77788bet",
+    "url": "https://77788betbrasil.com",
+    "page": "brands/77788bet.html",
+    "group": "7"
+  },
+  {
+    "brand": "777br",
+    "url": "https://777br.br.com",
+    "page": "brands/777br.html",
+    "group": "7"
+  },
+  {
+    "brand": "777dd",
+    "url": "https://777ddbrasil.com",
+    "page": "brands/777dd.html",
+    "group": "7"
+  },
+  {
+    "brand": "777game",
+    "url": "https://777gamebrasil.com",
+    "page": "brands/777game.html",
+    "group": "7"
+  },
+  {
+    "brand": "777games",
+    "url": "https://777games.br.com",
+    "page": "brands/777games.html",
+    "group": "7"
+  },
+  {
+    "brand": "777gbet",
+    "url": "https://777gbet.io",
+    "page": "brands/777gbet.html",
+    "group": "7"
+  },
+  {
+    "brand": "777log",
+    "url": "https://777logbrasil.com",
+    "page": "brands/777log.html",
+    "group": "7"
+  },
+  {
+    "brand": "777plus",
+    "url": "https://777plus.br.com",
+    "page": "brands/777plus.html",
+    "group": "7"
+  },
+  {
+    "brand": "777rio",
+    "url": "https://777riobrasil.com",
+    "page": "brands/777rio.html",
+    "group": "7"
+  },
+  {
+    "brand": "777wim",
+    "url": "https://777wimbrasil.com",
+    "page": "brands/777wim.html",
+    "group": "7"
+  },
+  {
+    "brand": "778bet",
+    "url": "https://778betbrasil.com",
+    "page": "brands/778bet.html",
+    "group": "7"
+  },
+  {
+    "brand": "77bra",
+    "url": "https://77brabrasil.com",
+    "page": "brands/77bra.html",
+    "group": "7"
+  },
+  {
+    "brand": "77f",
+    "url": "https://77f.br.com",
+    "page": "brands/77f.html",
+    "group": "7"
+  },
+  {
+    "brand": "77game",
+    "url": "https://77gamebrasil.com",
+    "page": "brands/77game.html",
+    "group": "7"
+  },
+  {
+    "brand": "7878bet",
+    "url": "https://7878betbrasil.com",
+    "page": "brands/7878bet.html",
+    "group": "7"
+  },
+  {
+    "brand": "7888bet",
+    "url": "https://7888betbrasil.com",
+    "page": "brands/7888bet.html",
+    "group": "7"
+  },
+  {
+    "brand": "789luck",
+    "url": "https://789luckbrasil.com",
+    "page": "brands/789luck.html",
+    "group": "7"
+  },
+  {
+    "brand": "79bet",
+    "url": "https://79betapp.br.com",
+    "page": "brands/79bet.html",
+    "group": "7"
+  },
+  {
+    "brand": "7b777",
+    "url": "https://7b777.br.com",
+    "page": "brands/7b777.html",
+    "group": "7"
+  },
+  {
+    "brand": "7y777",
+    "url": "https://7y777brasil.com",
+    "page": "brands/7y777.html",
+    "group": "7"
+  },
+  {
+    "brand": "8000bet",
+    "url": "https://8000betbrasil.com",
+    "page": "brands/8000bet.html",
+    "group": "8"
+  },
+  {
+    "brand": "8090bet",
+    "url": "https://8090betbrasil.com",
+    "page": "brands/8090bet.html",
+    "group": "8"
+  },
+  {
+    "brand": "80games",
+    "url": "https://80gamesbrasil.com",
+    "page": "brands/80games.html",
+    "group": "8"
+  },
+  {
+    "brand": "81bet",
+    "url": "https://81betcasino.io",
+    "page": "brands/81bet.html",
+    "group": "8"
+  },
+  {
+    "brand": "822bet",
+    "url": "https://822bet.br.com",
+    "page": "brands/822bet.html",
+    "group": "8"
+  },
+  {
+    "brand": "8555bet",
+    "url": "https://8555betbrasil.com",
+    "page": "brands/8555bet.html",
+    "group": "8"
+  },
+  {
+    "brand": "868bet",
+    "url": "https://868bet.br.com",
+    "page": "brands/868bet.html",
+    "group": "8"
+  },
+  {
+    "brand": "882bet",
+    "url": "https://882bet.br.com",
+    "page": "brands/882bet.html",
+    "group": "8"
+  },
+  {
+    "brand": "88855bet",
+    "url": "https://88855betbrasil.com",
+    "page": "brands/88855bet.html",
+    "group": "8"
+  },
+  {
+    "brand": "888brl",
+    "url": "https://888brl.br.com",
+    "page": "brands/888brl.html",
+    "group": "8"
+  },
+  {
+    "brand": "888games",
+    "url": "https://888games.br.com",
+    "page": "brands/888games.html",
+    "group": "8"
+  },
+  {
+    "brand": "888jogo",
+    "url": "https://888jogo.net.im",
+    "page": "brands/888jogo.html",
+    "group": "8"
+  },
+  {
+    "brand": "888jogos",
+    "url": "https://888jogosbrasil.com",
+    "page": "brands/888jogos.html",
+    "group": "8"
+  },
+  {
+    "brand": "888poker",
+    "url": "https://888poker.br.com",
+    "page": "brands/888poker.html",
+    "group": "8"
+  },
+  {
+    "brand": "888sport",
+    "url": "https://888sport.br.com",
+    "page": "brands/888sport.html",
+    "group": "8"
+  },
+  {
+    "brand": "888wim",
+    "url": "https://888wimbrasil.com",
+    "page": "brands/888wim.html",
+    "group": "8"
+  },
+  {
+    "brand": "88casino",
+    "url": "https://88casinobrasil.com",
+    "page": "brands/88casino.html",
+    "group": "8"
+  },
+  {
+    "brand": "88pg",
+    "url": "https://88pgbrasil.com",
+    "page": "brands/88pg.html",
+    "group": "8"
+  },
+  {
+    "brand": "88wim",
+    "url": "https://88wimbrasil.com",
+    "page": "brands/88wim.html",
+    "group": "8"
+  },
+  {
+    "brand": "88win",
+    "url": "https://88win.br.com",
+    "page": "brands/88win.html",
+    "group": "8"
+  },
+  {
+    "brand": "89betwin",
+    "url": "https://89betwinbrasil.com",
+    "page": "brands/89betwin.html",
+    "group": "8"
+  },
+  {
+    "brand": "89e",
+    "url": "https://89e.br.com",
+    "page": "brands/89e.html",
+    "group": "8"
+  },
+  {
+    "brand": "8bet",
+    "url": "https://8betbrasil.com",
+    "page": "brands/8bet.html",
+    "group": "8"
+  },
+  {
+    "brand": "923bet",
+    "url": "https://923betbrasil.com",
+    "page": "brands/923bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "936bet",
+    "url": "https://936betbrasil.com",
+    "page": "brands/936bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "9552bet",
+    "url": "https://9552betbrasil.com",
+    "page": "brands/9552bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "9595bet",
+    "url": "https://9595betbrasil.com",
+    "page": "brands/9595bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "965bet",
+    "url": "https://965betbrasil.com",
+    "page": "brands/965bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "971bet",
+    "url": "https://971bet.br.com",
+    "page": "brands/971bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "979bet",
+    "url": "https://979bet.io",
+    "page": "brands/979bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "982bet",
+    "url": "https://982bet.io",
+    "page": "brands/982bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "989bet",
+    "url": "https://989bet.br.com",
+    "page": "brands/989bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "9969bet",
+    "url": "https://9969betbrasil.com",
+    "page": "brands/9969bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "9992bet",
+    "url": "https://9992betbrasil.com",
+    "page": "brands/9992bet.html",
+    "group": "9"
+  },
+  {
+    "brand": "999bb",
+    "url": "https://999bbbrasil.com",
+    "page": "brands/999bb.html",
+    "group": "9"
+  },
+  {
+    "brand": "999g",
+    "url": "https://999g.br.com",
+    "page": "brands/999g.html",
+    "group": "9"
+  },
+  {
+    "brand": "999win",
+    "url": "https://999winbrasil.com",
+    "page": "brands/999win.html",
+    "group": "9"
+  },
+  {
+    "brand": "99brl",
+    "url": "https://99brlbrasil.com",
+    "page": "brands/99brl.html",
+    "group": "9"
+  },
+  {
+    "brand": "9fbet",
+    "url": "https://9fbet.br.com",
+    "page": "brands/9fbet.html",
+    "group": "9"
+  },
+  {
+    "brand": "9fgames",
+    "url": "https://9fgamesbrasil.com",
+    "page": "brands/9fgames.html",
+    "group": "9"
+  },
+  {
+    "brand": "9kbet",
+    "url": "https://9kbett.uk.com",
+    "page": "brands/9kbet.html",
+    "group": "9"
+  },
+  {
+    "brand": "a6bet",
+    "url": "https://a6bet.br.com",
+    "page": "brands/a6bet.html",
+    "group": "A"
+  },
+  {
+    "brand": "aa888bet",
+    "url": "https://aa888bet.br.com",
+    "page": "brands/aa888bet.html",
+    "group": "A"
+  },
+  {
+    "brand": "ajogo",
+    "url": "https://ajogo.br.com",
+    "page": "brands/ajogo.html",
+    "group": "A"
+  },
+  {
+    "brand": "ak8888",
+    "url": "https://ak8888brasil.com",
+    "page": "brands/ak8888.html",
+    "group": "A"
+  },
+  {
+    "brand": "alfabet",
+    "url": "https://alfabet.br.com",
+    "page": "brands/alfabet.html",
+    "group": "A"
+  },
+  {
+    "brand": "amabet",
+    "url": "https://amabet.br.com",
+    "page": "brands/amabet.html",
+    "group": "A"
+  },
+  {
+    "brand": "appbet",
+    "url": "https://appbet.br.com",
+    "page": "brands/appbet.html",
+    "group": "A"
+  },
+  {
+    "brand": "arrwin",
+    "url": "https://arrwinbrasil.com",
+    "page": "brands/arrwin.html",
+    "group": "A"
+  },
+  {
+    "brand": "ate777",
+    "url": "https://ate777.br.com",
+    "page": "brands/ate777.html",
+    "group": "A"
+  },
+  {
+    "brand": "awin",
+    "url": "https://awin.br.com",
+    "page": "brands/awin.html",
+    "group": "A"
+  },
+  {
+    "brand": "b365",
+    "url": "https://b365.br.com",
+    "page": "brands/b365.html",
+    "group": "B"
+  },
+  {
+    "brand": "b7k",
+    "url": "https://b7k.br.com",
+    "page": "brands/b7k.html",
+    "group": "B"
+  },
+  {
+    "brand": "bantubet",
+    "url": "https://bantubet.br.com",
+    "page": "brands/bantubet.html",
+    "group": "B"
+  },
+  {
+    "brand": "bbbet",
+    "url": "https://bbbet.br.com",
+    "page": "brands/bbbet.html",
+    "group": "B"
+  },
+  {
+    "brand": "bbcwin",
+    "url": "https://bbcwinbrasil.com",
+    "page": "brands/bbcwin.html",
+    "group": "B"
+  },
+  {
+    "brand": "bbet",
+    "url": "https://bbet.br.com",
+    "page": "brands/bbet.html",
+    "group": "B"
+  },
+  {
+    "brand": "bbrjogo",
+    "url": "https://bbrjogobrasil.com",
+    "page": "brands/bbrjogo.html",
+    "group": "B"
+  },
+  {
+    "brand": "bbwin",
+    "url": "https://bbwin.br.com",
+    "page": "brands/bbwin.html",
+    "group": "B"
+  },
+  {
+    "brand": "bcat777",
+    "url": "https://bcat777.br.com",
+    "page": "brands/bcat777.html",
+    "group": "B"
+  },
+  {
+    "brand": "be365",
+    "url": "https://be365.br.com",
+    "page": "brands/be365.html",
+    "group": "B"
+  },
+  {
+    "brand": "bela888",
+    "url": "https://bela888.br.com",
+    "page": "brands/bela888.html",
+    "group": "B"
+  },
+  {
+    "brand": "ber365",
+    "url": "https://ber365.br.com",
+    "page": "brands/ber365.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet12",
+    "url": "https://bet12.br.com",
+    "page": "brands/bet12.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet122",
+    "url": "https://bet122brasil.com",
+    "page": "brands/bet122.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet265",
+    "url": "https://bet265brasil.com",
+    "page": "brands/bet265.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet317",
+    "url": "https://bet317.br.com",
+    "page": "brands/bet317.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet333",
+    "url": "https://bet333.br.com",
+    "page": "brands/bet333.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet356",
+    "url": "https://bet356.br.com",
+    "page": "brands/bet356.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet360",
+    "url": "https://bet360.br.com",
+    "page": "brands/bet360.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet364",
+    "url": "https://bet364.br.com",
+    "page": "brands/bet364.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet377",
+    "url": "https://bet377brasil.com",
+    "page": "brands/bet377.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet3k",
+    "url": "https://bet3k.br.com",
+    "page": "brands/bet3k.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet456",
+    "url": "https://bet456brasil.com",
+    "page": "brands/bet456.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet465",
+    "url": "https://bet465brasil.com",
+    "page": "brands/bet465.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet535",
+    "url": "https://bet535.br.com",
+    "page": "brands/bet535.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet55",
+    "url": "https://bet55.br.com",
+    "page": "brands/bet55.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet555",
+    "url": "https://bet555.br.com",
+    "page": "brands/bet555.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet585",
+    "url": "https://bet585.br.com",
+    "page": "brands/bet585.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet595",
+    "url": "https://bet595.br.com",
+    "page": "brands/bet595.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet60",
+    "url": "https://bet60.br.com",
+    "page": "brands/bet60.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet666",
+    "url": "https://bet666brasil.com",
+    "page": "brands/bet666.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet70",
+    "url": "https://bet70.br.com",
+    "page": "brands/bet70.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet718",
+    "url": "https://bet718.br.com",
+    "page": "brands/bet718.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet755",
+    "url": "https://bet755brasil.com",
+    "page": "brands/bet755.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet79",
+    "url": "https://bet79brasil.com",
+    "page": "brands/bet79.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet888",
+    "url": "https://bet888.br.com",
+    "page": "brands/bet888.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet959",
+    "url": "https://bet959.br.com",
+    "page": "brands/bet959.html",
+    "group": "B"
+  },
+  {
+    "brand": "bet969",
+    "url": "https://bet969.br.com",
+    "page": "brands/bet969.html",
+    "group": "B"
+  },
+  {
+    "brand": "betabet",
+    "url": "https://betabetbrasil.com",
+    "page": "brands/betabet.html",
+    "group": "B"
+  },
+  {
+    "brand": "betbr",
+    "url": "https://betbrbrasil.com",
+    "page": "brands/betbr.html",
+    "group": "B"
+  },
+  {
+    "brand": "bethoje",
+    "url": "https://bethoje.br.com",
+    "page": "brands/bethoje.html",
+    "group": "B"
+  },
+  {
+    "brand": "bets88",
+    "url": "https://bets88brasil.com",
+    "page": "brands/bets88.html",
+    "group": "B"
+  },
+  {
+    "brand": "betweb",
+    "url": "https://betweb.br.com",
+    "page": "brands/betweb.html",
+    "group": "B"
+  },
+  {
+    "brand": "bey365",
+    "url": "https://bey365.br.com",
+    "page": "brands/bey365.html",
+    "group": "B"
+  },
+  {
+    "brand": "bg777",
+    "url": "https://bg777brasil.com",
+    "page": "brands/bg777.html",
+    "group": "B"
+  },
+  {
+    "brand": "bhbet",
+    "url": "https://bhbet.br.com",
+    "page": "brands/bhbet.html",
+    "group": "B"
+  },
+  {
+    "brand": "bis777",
+    "url": "https://bis777brasil.com",
+    "page": "brands/bis777.html",
+    "group": "B"
+  },
+  {
+    "brand": "bk7",
+    "url": "https://bk7brasil.com",
+    "page": "brands/bk7.html",
+    "group": "B"
+  },
+  {
+    "brand": "blusbet",
+    "url": "https://blusbetbrasil.com",
+    "page": "brands/blusbet.html",
+    "group": "B"
+  },
+  {
+    "brand": "boa777",
+    "url": "https://boa777.br.com",
+    "page": "brands/boa777.html",
+    "group": "B"
+  },
+  {
+    "brand": "bolavip",
+    "url": "https://bolavip.br.com",
+    "page": "brands/bolavip.html",
+    "group": "B"
+  },
+  {
+    "brand": "boxswin",
+    "url": "https://boxswinbrasil.com",
+    "page": "brands/boxswin.html",
+    "group": "B"
+  },
+  {
+    "brand": "boxwin",
+    "url": "https://boxwinbrasil.com",
+    "page": "brands/boxwin.html",
+    "group": "B"
+  },
+  {
+    "brand": "boys888",
+    "url": "https://boys888brasil.com",
+    "page": "brands/boys888.html",
+    "group": "B"
+  },
+  {
+    "brand": "br555bet",
+    "url": "https://br555betbrasil.com",
+    "page": "brands/br555bet.html",
+    "group": "B"
+  },
+  {
+    "brand": "br8bet",
+    "url": "https://br8bet.br.com",
+    "page": "brands/br8bet.html",
+    "group": "B"
+  },
+  {
+    "brand": "bra888",
+    "url": "https://bra888.br.com",
+    "page": "brands/bra888.html",
+    "group": "B"
+  },
+  {
+    "brand": "bravgbet",
+    "url": "https://bravgbet.br.com",
+    "page": "brands/bravgbet.html",
+    "group": "B"
+  },
+  {
+    "brand": "brjogo",
+    "url": "https://brjogobrasil.com",
+    "page": "brands/brjogo.html",
+    "group": "B"
+  },
+  {
+    "brand": "brkkk",
+    "url": "https://brkkkbrasil.com",
+    "page": "brands/brkkk.html",
+    "group": "B"
+  },
+  {
+    "brand": "brlwin",
+    "url": "https://brlwinbrasil.com",
+    "page": "brands/brlwin.html",
+    "group": "B"
+  },
+  {
+    "brand": "brrbet",
+    "url": "https://brrbet.br.com",
+    "page": "brands/brrbet.html",
+    "group": "B"
+  },
+  {
+    "brand": "bsbet",
+    "url": "https://bsbet.br.com",
+    "page": "brands/bsbet.html",
+    "group": "B"
   },
   {
     "brand": "bt7k",
     "url": "https://bt7k.br.com",
-    "page": "brands/bt7k.html"
+    "page": "brands/bt7k.html",
+    "group": "B"
+  },
+  {
+    "brand": "bte365",
+    "url": "https://bte365.br.com",
+    "page": "brands/bte365.html",
+    "group": "B"
+  },
+  {
+    "brand": "bulsbet",
+    "url": "https://bulsbetbrasil.com",
+    "page": "brands/bulsbet.html",
+    "group": "B"
+  },
+  {
+    "brand": "buswin",
+    "url": "https://buswinbrasil.com",
+    "page": "brands/buswin.html",
+    "group": "B"
+  },
+  {
+    "brand": "bzbet",
+    "url": "https://bzbet.br.com",
+    "page": "brands/bzbet.html",
+    "group": "B"
+  },
+  {
+    "brand": "bzjogos",
+    "url": "https://bzjogosbrasil.com",
+    "page": "brands/bzjogos.html",
+    "group": "B"
+  },
+  {
+    "brand": "cafebet",
+    "url": "https://cafebet.br.com",
+    "page": "brands/cafebet.html",
+    "group": "C"
+  },
+  {
+    "brand": "cccbet",
+    "url": "https://cccbet.br.com",
+    "page": "brands/cccbet.html",
+    "group": "C"
+  },
+  {
+    "brand": "ceu777bet",
+    "url": "https://ceu777betbrasil.com",
+    "page": "brands/ceu777bet.html",
+    "group": "C"
+  },
+  {
+    "brand": "cis777",
+    "url": "https://cis777brasil.com",
+    "page": "brands/cis777.html",
+    "group": "C"
+  },
+  {
+    "brand": "ck777",
+    "url": "https://ck777brasil.com",
+    "page": "brands/ck777.html",
+    "group": "C"
+  },
+  {
+    "brand": "clarobet",
+    "url": "https://clarobet.br.com",
+    "page": "brands/clarobet.html",
+    "group": "C"
+  },
+  {
+    "brand": "claze77",
+    "url": "https://claze77.br.com",
+    "page": "brands/claze77.html",
+    "group": "C"
+  },
+  {
+    "brand": "club77",
+    "url": "https://club77.br.com",
+    "page": "brands/club77.html",
+    "group": "C"
+  },
+  {
+    "brand": "club777",
+    "url": "https://club777.br.com",
+    "page": "brands/club777.html",
+    "group": "C"
+  },
+  {
+    "brand": "club77bet",
+    "url": "https://club77betbrasil.com",
+    "page": "brands/club77bet.html",
+    "group": "C"
+  },
+  {
+    "brand": "clube77",
+    "url": "https://clube77brasil.com",
+    "page": "brands/clube77.html",
+    "group": "C"
+  },
+  {
+    "brand": "clubewin",
+    "url": "https://clubewinbrasil.com",
+    "page": "brands/clubewin.html",
+    "group": "C"
+  },
+  {
+    "brand": "coroabet",
+    "url": "https://coroabetbrasil.com",
+    "page": "brands/coroabet.html",
+    "group": "C"
+  },
+  {
+    "brand": "coroarbet",
+    "url": "https://coroarbet.br.com",
+    "page": "brands/coroarbet.html",
+    "group": "C"
+  },
+  {
+    "brand": "cpf777",
+    "url": "https://cpf777.br.com",
+    "page": "brands/cpf777.html",
+    "group": "C"
+  },
+  {
+    "brand": "cunbet",
+    "url": "https://cunbet.br.com",
+    "page": "brands/cunbet.html",
+    "group": "C"
+  },
+  {
+    "brand": "cupwin",
+    "url": "https://cupwinbrasil.com",
+    "page": "brands/cupwin.html",
+    "group": "C"
+  },
+  {
+    "brand": "cwbet",
+    "url": "https://cwbetbrasil.com",
+    "page": "brands/cwbet.html",
+    "group": "C"
+  },
+  {
+    "brand": "d333bet",
+    "url": "https://d333bet.br.com",
+    "page": "brands/d333bet.html",
+    "group": "D"
+  },
+  {
+    "brand": "dama777",
+    "url": "https://dama777brasil.com",
+    "page": "brands/dama777.html",
+    "group": "D"
+  },
+  {
+    "brand": "dtbet",
+    "url": "https://dtbet.br.com",
+    "page": "brands/dtbet.html",
+    "group": "D"
+  },
+  {
+    "brand": "e55bet",
+    "url": "https://e55betbrasil.com",
+    "page": "brands/e55bet.html",
+    "group": "E"
+  },
+  {
+    "brand": "eeebet",
+    "url": "https://eeebet.br.com",
+    "page": "brands/eeebet.html",
+    "group": "E"
+  },
+  {
+    "brand": "ejcassino",
+    "url": "https://ejcassino.br.com",
+    "page": "brands/ejcassino.html",
+    "group": "E"
+  },
+  {
+    "brand": "ele777",
+    "url": "https://ele777.br.com",
+    "page": "brands/ele777.html",
+    "group": "E"
+  },
+  {
+    "brand": "f2bet",
+    "url": "https://f2betbrasil.com",
+    "page": "brands/f2bet.html",
+    "group": "F"
+  },
+  {
+    "brand": "fizabet",
+    "url": "https://fizabet.br.com",
+    "page": "brands/fizabet.html",
+    "group": "F"
+  },
+  {
+    "brand": "flabet",
+    "url": "https://flabet.co",
+    "page": "brands/flabet.html",
+    "group": "F"
+  },
+  {
+    "brand": "fogo7777",
+    "url": "https://fogo7777.org",
+    "page": "brands/fogo7777.html",
+    "group": "F"
+  },
+  {
+    "brand": "folkbet",
+    "url": "https://folkbetbrasil.com",
+    "page": "brands/folkbet.html",
+    "group": "F"
+  },
+  {
+    "brand": "fpbet",
+    "url": "https://fpbetbrasil.com",
+    "page": "brands/fpbet.html",
+    "group": "F"
+  },
+  {
+    "brand": "fullbet",
+    "url": "https://fullbet.br.com",
+    "page": "brands/fullbet.html",
+    "group": "F"
+  },
+  {
+    "brand": "fuwin",
+    "url": "https://fuwin.br.com",
+    "page": "brands/fuwin.html",
+    "group": "F"
+  },
+  {
+    "brand": "fxfx88",
+    "url": "https://fxfx88.br.com",
+    "page": "brands/fxfx88.html",
+    "group": "F"
+  },
+  {
+    "brand": "g5bet",
+    "url": "https://g5betbrasil.com",
+    "page": "brands/g5bet.html",
+    "group": "G"
+  },
+  {
+    "brand": "game50",
+    "url": "https://game50brasil.com",
+    "page": "brands/game50.html",
+    "group": "G"
+  },
+  {
+    "brand": "game90",
+    "url": "https://game90brasil.com",
+    "page": "brands/game90.html",
+    "group": "G"
+  },
+  {
+    "brand": "ganhabet",
+    "url": "https://ganhabet.br.com",
+    "page": "brands/ganhabet.html",
+    "group": "G"
+  },
+  {
+    "brand": "ggpoker",
+    "url": "https://ggpoker.br.com",
+    "page": "brands/ggpoker.html",
+    "group": "G"
+  },
+  {
+    "brand": "gigabet",
+    "url": "https://gigabets.games",
+    "page": "brands/gigabet.html",
+    "group": "G"
+  },
+  {
+    "brand": "gigabet",
+    "url": "https://gigabets.io",
+    "page": "brands/gigabet-2.html",
+    "group": "G"
+  },
+  {
+    "brand": "gil777",
+    "url": "https://gil777brasil.com",
+    "page": "brands/gil777.html",
+    "group": "G"
+  },
+  {
+    "brand": "gogowin",
+    "url": "https://gogowin.br.com",
+    "page": "brands/gogowin.html",
+    "group": "G"
+  },
+  {
+    "brand": "golbet",
+    "url": "https://golbet.br.com",
+    "page": "brands/golbet.html",
+    "group": "G"
+  },
+  {
+    "brand": "gorilabet",
+    "url": "https://gorilabetbrasil.com",
+    "page": "brands/gorilabet.html",
+    "group": "G"
+  },
+  {
+    "brand": "gprbet",
+    "url": "https://gprbetbrasil.com",
+    "page": "brands/gprbet.html",
+    "group": "G"
+  },
+  {
+    "brand": "gtwim",
+    "url": "https://gtwimbrasil.com",
+    "page": "brands/gtwim.html",
+    "group": "G"
+  },
+  {
+    "brand": "gtwin",
+    "url": "https://gtwin.it.com",
+    "page": "brands/gtwin.html",
+    "group": "G"
+  },
+  {
+    "brand": "gynbet",
+    "url": "https://gynbetbrasil.com",
+    "page": "brands/gynbet.html",
+    "group": "G"
+  },
+  {
+    "brand": "h22bet",
+    "url": "https://h22bet.br.com",
+    "page": "brands/h22bet.html",
+    "group": "H"
+  },
+  {
+    "brand": "h2bt",
+    "url": "https://h2bt.br.com",
+    "page": "brands/h2bt.html",
+    "group": "H"
+  },
+  {
+    "brand": "h456bet",
+    "url": "https://h456betbrasil.com",
+    "page": "brands/h456bet.html",
+    "group": "H"
+  },
+  {
+    "brand": "h55bet",
+    "url": "https://h55betbrasil.com",
+    "page": "brands/h55bet.html",
+    "group": "H"
+  },
+  {
+    "brand": "h7bet",
+    "url": "https://h7betbrasil.com",
+    "page": "brands/h7bet.html",
+    "group": "H"
+  },
+  {
+    "brand": "hbet",
+    "url": "https://hbetbrasil.com",
+    "page": "brands/hbet.html",
+    "group": "H"
+  },
+  {
+    "brand": "hgjogo",
+    "url": "https://hgjogobrasil.com",
+    "page": "brands/hgjogo.html",
+    "group": "H"
+  },
+  {
+    "brand": "hh55bet",
+    "url": "https://hh55betbrasil.com",
+    "page": "brands/hh55bet.html",
+    "group": "H"
+  },
+  {
+    "brand": "hot777",
+    "url": "https://hot777.br.com",
+    "page": "brands/hot777.html",
+    "group": "H"
+  },
+  {
+    "brand": "ii678",
+    "url": "https://ii678.br.com",
+    "page": "brands/ii678.html",
+    "group": "I"
+  },
+  {
+    "brand": "iiwin",
+    "url": "https://iiwinbrasil.com",
+    "page": "brands/iiwin.html",
+    "group": "I"
+  },
+  {
+    "brand": "ipiwin",
+    "url": "https://ipiwinbrasil.com",
+    "page": "brands/ipiwin.html",
+    "group": "I"
+  },
+  {
+    "brand": "iribet",
+    "url": "https://iribet.br.com",
+    "page": "brands/iribet.html",
+    "group": "I"
+  },
+  {
+    "brand": "isbet",
+    "url": "https://isbetbrasil.com",
+    "page": "brands/isbet.html",
+    "group": "I"
+  },
+  {
+    "brand": "jackbet",
+    "url": "https://jackbet.br.com",
+    "page": "brands/jackbet.html",
+    "group": "J"
+  },
+  {
+    "brand": "jebet",
+    "url": "https://jebet.br.com",
+    "page": "brands/jebet.html",
+    "group": "J"
+  },
+  {
+    "brand": "jili77",
+    "url": "https://jili77brasil.com",
+    "page": "brands/jili77.html",
+    "group": "J"
+  },
+  {
+    "brand": "jili777",
+    "url": "https://jili777.br.com",
+    "page": "brands/jili777.html",
+    "group": "J"
+  },
+  {
+    "brand": "jj789",
+    "url": "https://jj789brasil.com",
+    "page": "brands/jj789.html",
+    "group": "J"
+  },
+  {
+    "brand": "jjbet",
+    "url": "https://jjbetbrasil.com",
+    "page": "brands/jjbet.html",
+    "group": "J"
+  },
+  {
+    "brand": "jkbet",
+    "url": "https://jkbetbrasil.com",
+    "page": "brands/jkbet.html",
+    "group": "J"
+  },
+  {
+    "brand": "jogo365",
+    "url": "https://jogo365brasil.com",
+    "page": "brands/jogo365.html",
+    "group": "J"
+  },
+  {
+    "brand": "jogo888",
+    "url": "https://jogo888brasil.com",
+    "page": "brands/jogo888.html",
+    "group": "J"
+  },
+  {
+    "brand": "jogopg",
+    "url": "https://jogopgbrasil.com",
+    "page": "brands/jogopg.html",
+    "group": "J"
+  },
+  {
+    "brand": "jogowin",
+    "url": "https://jogowin.br.com",
+    "page": "brands/jogowin.html",
+    "group": "J"
+  },
+  {
+    "brand": "jojobet",
+    "url": "https://jojobet.br.com",
+    "page": "brands/jojobet.html",
+    "group": "J"
+  },
+  {
+    "brand": "jue88",
+    "url": "https://jue88brasil.com",
+    "page": "brands/jue88.html",
+    "group": "J"
+  },
+  {
+    "brand": "jwin",
+    "url": "https://jwinbrasil.com",
+    "page": "brands/jwin.html",
+    "group": "J"
+  },
+  {
+    "brand": "k11bet",
+    "url": "https://k11bet.br.com",
+    "page": "brands/k11bet.html",
+    "group": "K"
+  },
+  {
+    "brand": "k2bet",
+    "url": "https://k2betbrasil.com",
+    "page": "brands/k2bet.html",
+    "group": "K"
+  },
+  {
+    "brand": "k55bet",
+    "url": "https://k55bet.br.com",
+    "page": "brands/k55bet.html",
+    "group": "K"
+  },
+  {
+    "brand": "k6bet",
+    "url": "https://k6bet.br.com",
+    "page": "brands/k6bet.html",
+    "group": "K"
+  },
+  {
+    "brand": "k77bet",
+    "url": "https://k77bet.br.com",
+    "page": "brands/k77bet.html",
+    "group": "K"
+  },
+  {
+    "brand": "k7win",
+    "url": "https://k7win.br.com",
+    "page": "brands/k7win.html",
+    "group": "K"
+  },
+  {
+    "brand": "kajogo",
+    "url": "https://kajogo.br.com",
+    "page": "brands/kajogo.html",
+    "group": "K"
+  },
+  {
+    "brand": "kgbet",
+    "url": "https://kgbet.br.com",
+    "page": "brands/kgbet.html",
+    "group": "K"
+  },
+  {
+    "brand": "kissbet",
+    "url": "https://kissbet.br.com",
+    "page": "brands/kissbet.html",
+    "group": "K"
+  },
+  {
+    "brand": "kkgg",
+    "url": "https://kkgg.br.com",
+    "page": "brands/kkgg.html",
+    "group": "K"
+  },
+  {
+    "brand": "kslot",
+    "url": "https://kslotbrasil.com",
+    "page": "brands/kslot.html",
+    "group": "K"
+  },
+  {
+    "brand": "kwbet",
+    "url": "https://kwbetbrasil.com",
+    "page": "brands/kwbet.html",
+    "group": "K"
+  },
+  {
+    "brand": "leobet",
+    "url": "https://leobetbrasil.com",
+    "page": "brands/leobet.html",
+    "group": "L"
+  },
+  {
+    "brand": "lllbet",
+    "url": "https://lllbet.br.com",
+    "page": "brands/lllbet.html",
+    "group": "L"
+  },
+  {
+    "brand": "lnbet",
+    "url": "https://lnbet.br.com",
+    "page": "brands/lnbet.html",
+    "group": "L"
+  },
+  {
+    "brand": "lobo8888",
+    "url": "https://lobo8888brasil.com",
+    "page": "brands/lobo8888.html",
+    "group": "L"
+  },
+  {
+    "brand": "loto",
+    "url": "https://loto.br.com",
+    "page": "brands/loto.html",
+    "group": "L"
+  },
+  {
+    "brand": "lotusbet",
+    "url": "https://lotusbetbrasil.com",
+    "page": "brands/lotusbet.html",
+    "group": "L"
+  },
+  {
+    "brand": "love777",
+    "url": "https://love777.br.com",
+    "page": "brands/love777.html",
+    "group": "L"
+  },
+  {
+    "brand": "luck66",
+    "url": "https://luck66.br.com",
+    "page": "brands/luck66.html",
+    "group": "L"
+  },
+  {
+    "brand": "luwin",
+    "url": "https://luwin.br.com",
+    "page": "brands/luwin.html",
+    "group": "L"
+  },
+  {
+    "brand": "mar777",
+    "url": "https://mar777.br.com",
+    "page": "brands/mar777.html",
+    "group": "M"
+  },
+  {
+    "brand": "matbet",
+    "url": "https://matbetbrasil.com",
+    "page": "brands/matbet.html",
+    "group": "M"
+  },
+  {
+    "brand": "maximabet",
+    "url": "https://maximabet.br.com",
+    "page": "brands/maximabet.html",
+    "group": "M"
+  },
+  {
+    "brand": "metbet",
+    "url": "https://metbetbrasil.com",
+    "page": "brands/metbet.html",
+    "group": "M"
+  },
+  {
+    "brand": "minasbet",
+    "url": "https://minasbetbrasil.com",
+    "page": "brands/minasbet.html",
+    "group": "M"
+  },
+  {
+    "brand": "mixbet",
+    "url": "https://mixbetbrasil.com",
+    "page": "brands/mixbet.html",
+    "group": "M"
+  },
+  {
+    "brand": "mmbet",
+    "url": "https://mmbetbrasil.com",
+    "page": "brands/mmbet.html",
+    "group": "M"
   },
   {
     "brand": "multibet",
     "url": "https://multibet.br.com",
-    "page": "brands/multibet.html"
+    "page": "brands/multibet.html",
+    "group": "M"
+  },
+  {
+    "brand": "n19bet",
+    "url": "https://n19betbrasil.com",
+    "page": "brands/n19bet.html",
+    "group": "N"
+  },
+  {
+    "brand": "n9bet",
+    "url": "https://n9bet.br.com",
+    "page": "brands/n9bet.html",
+    "group": "N"
+  },
+  {
+    "brand": "net365",
+    "url": "https://net365brasil.com",
+    "page": "brands/net365.html",
+    "group": "N"
+  },
+  {
+    "brand": "niowin",
+    "url": "https://niowinbrasil.com",
+    "page": "brands/niowin.html",
+    "group": "N"
+  },
+  {
+    "brand": "nn555",
+    "url": "https://nn555.br.com",
+    "page": "brands/nn555.html",
+    "group": "N"
+  },
+  {
+    "brand": "nn55bet",
+    "url": "https://nn55bet.br.com",
+    "page": "brands/nn55bet.html",
+    "group": "N"
+  },
+  {
+    "brand": "novabet",
+    "url": "https://novabet.br.com",
+    "page": "brands/novabet.html",
+    "group": "N"
+  },
+  {
+    "brand": "novbet",
+    "url": "https://novbetbrasil.com",
+    "page": "brands/novbet.html",
+    "group": "N"
+  },
+  {
+    "brand": "novebet",
+    "url": "https://novebetbrasil.com",
+    "page": "brands/novebet.html",
+    "group": "N"
+  },
+  {
+    "brand": "novobet",
+    "url": "https://novobetbrasil.com",
+    "page": "brands/novobet.html",
+    "group": "N"
+  },
+  {
+    "brand": "noz777",
+    "url": "https://noz777brasil.com",
+    "page": "brands/noz777.html",
+    "group": "N"
+  },
+  {
+    "brand": "nu777",
+    "url": "https://nu777brasil.com",
+    "page": "brands/nu777.html",
+    "group": "N"
+  },
+  {
+    "brand": "obet",
+    "url": "https://obet.br.com",
+    "page": "brands/obet.html",
+    "group": "O"
+  },
+  {
+    "brand": "ogjogo",
+    "url": "https://ogjogo.br.com",
+    "page": "brands/ogjogo.html",
+    "group": "O"
+  },
+  {
+    "brand": "oibet",
+    "url": "https://oibetbrasil.com",
+    "page": "brands/oibet.html",
+    "group": "O"
+  },
+  {
+    "brand": "ok8bet",
+    "url": "https://ok8betbrasil.com",
+    "page": "brands/ok8bet.html",
+    "group": "O"
+  },
+  {
+    "brand": "okkbet",
+    "url": "https://okkbet.br.com",
+    "page": "brands/okkbet.html",
+    "group": "O"
+  },
+  {
+    "brand": "olabet",
+    "url": "https://olabetbrasil.com",
+    "page": "brands/olabet.html",
+    "group": "O"
+  },
+  {
+    "brand": "olabet777",
+    "url": "https://olabet777brasil.com",
+    "page": "brands/olabet777.html",
+    "group": "O"
+  },
+  {
+    "brand": "onebet",
+    "url": "https://onebet.br.com",
+    "page": "brands/onebet.html",
+    "group": "O"
+  },
+  {
+    "brand": "only777",
+    "url": "https://only777brasil.com",
+    "page": "brands/only777.html",
+    "group": "O"
+  },
+  {
+    "brand": "onw777",
+    "url": "https://onw777brasil.com",
+    "page": "brands/onw777.html",
+    "group": "O"
+  },
+  {
+    "brand": "oobet",
+    "url": "https://oobet.br.com",
+    "page": "brands/oobet.html",
+    "group": "O"
+  },
+  {
+    "brand": "opabet777",
+    "url": "https://opabet777brasil.com",
+    "page": "brands/opabet777.html",
+    "group": "O"
+  },
+  {
+    "brand": "own777",
+    "url": "https://own777.br.com",
+    "page": "brands/own777.html",
+    "group": "O"
+  },
+  {
+    "brand": "ox777",
+    "url": "https://ox777brasil.com",
+    "page": "brands/ox777.html",
+    "group": "O"
+  },
+  {
+    "brand": "oxe777",
+    "url": "https://oxe777brasil.com",
+    "page": "brands/oxe777.html",
+    "group": "O"
+  },
+  {
+    "brand": "pagolbet",
+    "url": "https://pagolbet.br.com",
+    "page": "brands/pagolbet.html",
+    "group": "P"
+  },
+  {
+    "brand": "pg777",
+    "url": "https://pg777brasil.com",
+    "page": "brands/pg777.html",
+    "group": "P"
+  },
+  {
+    "brand": "pg888",
+    "url": "https://pg888brasil.com",
+    "page": "brands/pg888.html",
+    "group": "P"
+  },
+  {
+    "brand": "pg8bet",
+    "url": "https://pg8betbrasil.com",
+    "page": "brands/pg8bet.html",
+    "group": "P"
+  },
+  {
+    "brand": "pgbet",
+    "url": "https://pgbet.br.com",
+    "page": "brands/pgbet.html",
+    "group": "P"
+  },
+  {
+    "brand": "pinbet",
+    "url": "https://pinbet.br.com",
+    "page": "brands/pinbet.html",
+    "group": "P"
+  },
+  {
+    "brand": "pixpoker",
+    "url": "https://pixpokerbrasil.com",
+    "page": "brands/pixpoker.html",
+    "group": "P"
+  },
+  {
+    "brand": "pop678",
+    "url": "https://pop678.br.com",
+    "page": "brands/pop678.html",
+    "group": "P"
+  },
+  {
+    "brand": "pop888",
+    "url": "https://pop888brasil.com",
+    "page": "brands/pop888.html",
+    "group": "P"
+  },
+  {
+    "brand": "popobet",
+    "url": "https://popobet.br.com",
+    "page": "brands/popobet.html",
+    "group": "P"
+  },
+  {
+    "brand": "poppg",
+    "url": "https://poppgbrasil.com",
+    "page": "brands/poppg.html",
+    "group": "P"
+  },
+  {
+    "brand": "ppbet",
+    "url": "https://ppbet.br.com",
+    "page": "brands/ppbet.html",
+    "group": "P"
+  },
+  {
+    "brand": "pttwin",
+    "url": "https://pttwinbrasil.com",
+    "page": "brands/pttwin.html",
+    "group": "P"
+  },
+  {
+    "brand": "pubet",
+    "url": "https://pubet.br.com",
+    "page": "brands/pubet.html",
+    "group": "P"
+  },
+  {
+    "brand": "pvpbet",
+    "url": "https://pvpbetbrasil.com",
+    "page": "brands/pvpbet.html",
+    "group": "P"
+  },
+  {
+    "brand": "q8bet",
+    "url": "https://q8betbrasil.com",
+    "page": "brands/q8bet.html",
+    "group": "Q"
+  },
+  {
+    "brand": "qbet",
+    "url": "https://qbet.br.com",
+    "page": "brands/qbet.html",
+    "group": "Q"
+  },
+  {
+    "brand": "qgbet",
+    "url": "https://qgbet.br.com",
+    "page": "brands/qgbet.html",
+    "group": "Q"
+  },
+  {
+    "brand": "qrbet",
+    "url": "https://qrbet.br.com",
+    "page": "brands/qrbet.html",
+    "group": "Q"
+  },
+  {
+    "brand": "r9bet",
+    "url": "https://r9betbrasil.com",
+    "page": "brands/r9bet.html",
+    "group": "R"
+  },
+  {
+    "brand": "realbet",
+    "url": "https://realbet.br.com",
+    "page": "brands/realbet.html",
+    "group": "R"
+  },
+  {
+    "brand": "relsbet",
+    "url": "https://relsbetbrasil.com",
+    "page": "brands/relsbet.html",
+    "group": "R"
+  },
+  {
+    "brand": "riobet",
+    "url": "https://riobetbrasil.com",
+    "page": "brands/riobet.html",
+    "group": "R"
+  },
+  {
+    "brand": "runwin",
+    "url": "https://runwinbrasil.com",
+    "page": "brands/runwin.html",
+    "group": "R"
+  },
+  {
+    "brand": "s11bet",
+    "url": "https://s11bet.br.com",
+    "page": "brands/s11bet.html",
+    "group": "S"
+  },
+  {
+    "brand": "s5bet",
+    "url": "https://s5bet.br.com",
+    "page": "brands/s5bet.html",
+    "group": "S"
+  },
+  {
+    "brand": "score365",
+    "url": "https://score365.br.com",
+    "page": "brands/score365.html",
+    "group": "S"
+  },
+  {
+    "brand": "seu777",
+    "url": "https://seu777brasil.com",
+    "page": "brands/seu777.html",
+    "group": "S"
+  },
+  {
+    "brand": "seuwin",
+    "url": "https://seuwin.br.com",
+    "page": "brands/seuwin.html",
+    "group": "S"
+  },
+  {
+    "brand": "skkbet",
+    "url": "https://skkbetbrasil.com",
+    "page": "brands/skkbet.html",
+    "group": "S"
+  },
+  {
+    "brand": "slot7k",
+    "url": "https://slot7kbrasil.com",
+    "page": "brands/slot7k.html",
+    "group": "S"
+  },
+  {
+    "brand": "slotwin",
+    "url": "https://slotwinbrasil.com",
+    "page": "brands/slotwin.html",
+    "group": "S"
+  },
+  {
+    "brand": "sol777",
+    "url": "https://sol777.br.com",
+    "page": "brands/sol777.html",
+    "group": "S"
+  },
+  {
+    "brand": "speedbet",
+    "url": "https://speedbet.br.com",
+    "page": "brands/speedbet.html",
+    "group": "S"
+  },
+  {
+    "brand": "sporbet",
+    "url": "https://sporbetbrasil.com",
+    "page": "brands/sporbet.html",
+    "group": "S"
+  },
+  {
+    "brand": "sportebet",
+    "url": "https://sportebet.br.com",
+    "page": "brands/sportebet.html",
+    "group": "S"
+  },
+  {
+    "brand": "spotbet",
+    "url": "https://spotbet.br.com",
+    "page": "brands/spotbet.html",
+    "group": "S"
+  },
+  {
+    "brand": "ssgame",
+    "url": "https://ssgamebrasil.com",
+    "page": "brands/ssgame.html",
+    "group": "S"
+  },
+  {
+    "brand": "sssgame",
+    "url": "https://sssgame.games",
+    "page": "brands/sssgame.html",
+    "group": "S"
+  },
+  {
+    "brand": "sssgames",
+    "url": "https://sssgames.br.com",
+    "page": "brands/sssgames.html",
+    "group": "S"
+  },
+  {
+    "brand": "ssspaga",
+    "url": "https://ssspagabrasil.com",
+    "page": "brands/ssspaga.html",
+    "group": "S"
+  },
+  {
+    "brand": "ssvip",
+    "url": "https://ssvip.br.com",
+    "page": "brands/ssvip.html",
+    "group": "S"
+  },
+  {
+    "brand": "strelabet",
+    "url": "https://strelabet.br.com",
+    "page": "brands/strelabet.html",
+    "group": "S"
+  },
+  {
+    "brand": "strike777",
+    "url": "https://strike777brasil.com",
+    "page": "brands/strike777.html",
+    "group": "S"
+  },
+  {
+    "brand": "sua777",
+    "url": "https://sua777.br.com",
+    "page": "brands/sua777.html",
+    "group": "S"
+  },
+  {
+    "brand": "suabet",
+    "url": "https://suabet.br.com",
+    "page": "brands/suabet.html",
+    "group": "S"
+  },
+  {
+    "brand": "sun777",
+    "url": "https://sun777.br.com",
+    "page": "brands/sun777.html",
+    "group": "S"
+  },
+  {
+    "brand": "sunjogo",
+    "url": "https://sunjogobrasil.com",
+    "page": "brands/sunjogo.html",
+    "group": "S"
+  },
+  {
+    "brand": "suoerbet",
+    "url": "https://suoerbetbrasil.com",
+    "page": "brands/suoerbet.html",
+    "group": "S"
+  },
+  {
+    "brand": "supebet",
+    "url": "https://supebetbrasil.com",
+    "page": "brands/supebet.html",
+    "group": "S"
+  },
+  {
+    "brand": "surpebet",
+    "url": "https://surpebetbrasil.com",
+    "page": "brands/surpebet.html",
+    "group": "S"
+  },
+  {
+    "brand": "suvpg",
+    "url": "https://suvpgbrasil.com",
+    "page": "brands/suvpg.html",
+    "group": "S"
+  },
+  {
+    "brand": "t111",
+    "url": "https://t111.br.com",
+    "page": "brands/t111.html",
+    "group": "T"
+  },
+  {
+    "brand": "taabet",
+    "url": "https://taabet.br.com",
+    "page": "brands/taabet.html",
+    "group": "T"
+  },
+  {
+    "brand": "tadabet",
+    "url": "https://tadabet.br.com",
+    "page": "brands/tadabet.html",
+    "group": "T"
+  },
+  {
+    "brand": "ter777",
+    "url": "https://ter777.br.com",
+    "page": "brands/ter777.html",
+    "group": "T"
+  },
+  {
+    "brand": "texybet",
+    "url": "https://texybetbrasil.com",
+    "page": "brands/texybet.html",
+    "group": "T"
+  },
+  {
+    "brand": "tgjogo",
+    "url": "https://tgjogo.br.com",
+    "page": "brands/tgjogo.html",
+    "group": "T"
+  },
+  {
+    "brand": "tik777",
+    "url": "https://tik777brasil.com",
+    "page": "brands/tik777.html",
+    "group": "T"
+  },
+  {
+    "brand": "timbet",
+    "url": "https://timbet.br.com",
+    "page": "brands/timbet.html",
+    "group": "T"
+  },
+  {
+    "brand": "titiwin",
+    "url": "https://titiwin.br.com",
+    "page": "brands/titiwin.html",
+    "group": "T"
+  },
+  {
+    "brand": "today777",
+    "url": "https://today777.br.com",
+    "page": "brands/today777.html",
+    "group": "T"
+  },
+  {
+    "brand": "tqwin",
+    "url": "https://tqwinbrasil.com",
+    "page": "brands/tqwin.html",
+    "group": "T"
+  },
+  {
+    "brand": "tt99",
+    "url": "https://tt99.br.com",
+    "page": "brands/tt99.html",
+    "group": "T"
+  },
+  {
+    "brand": "u7bet",
+    "url": "https://u7betbrasil.com",
+    "page": "brands/u7bet.html",
+    "group": "U"
+  },
+  {
+    "brand": "ultrabet",
+    "url": "https://ultrabet.br.com",
+    "page": "brands/ultrabet.html",
+    "group": "U"
+  },
+  {
+    "brand": "umcassino",
+    "url": "https://umcassino.br.com",
+    "page": "brands/umcassino.html",
+    "group": "U"
+  },
+  {
+    "brand": "unicabet",
+    "url": "https://unicabetbrasil.com",
+    "page": "brands/unicabet.html",
+    "group": "U"
+  },
+  {
+    "brand": "upbet",
+    "url": "https://upbet.to",
+    "page": "brands/upbet.html",
+    "group": "U"
+  },
+  {
+    "brand": "uxbet",
+    "url": "https://uxbet.br.com",
+    "page": "brands/uxbet.html",
+    "group": "U"
+  },
+  {
+    "brand": "vaibet",
+    "url": "https://vaibetbrasil.com",
+    "page": "brands/vaibet.html",
+    "group": "V"
+  },
+  {
+    "brand": "vaidabet",
+    "url": "https://vaidabetbrasil.com",
+    "page": "brands/vaidabet.html",
+    "group": "V"
+  },
+  {
+    "brand": "vertbet",
+    "url": "https://vertbetbrasil.com",
+    "page": "brands/vertbet.html",
+    "group": "V"
+  },
+  {
+    "brand": "vgbet",
+    "url": "https://vgbet.br.com",
+    "page": "brands/vgbet.html",
+    "group": "V"
+  },
+  {
+    "brand": "viu777",
+    "url": "https://viu777.br.com",
+    "page": "brands/viu777.html",
+    "group": "V"
+  },
+  {
+    "brand": "vixbet",
+    "url": "https://vixbetbrasil.com",
+    "page": "brands/vixbet.html",
+    "group": "V"
+  },
+  {
+    "brand": "voj8",
+    "url": "https://voj8.br.com",
+    "page": "brands/voj8.html",
+    "group": "V"
+  },
+  {
+    "brand": "voz777",
+    "url": "https://voz777brasil.com",
+    "page": "brands/voz777.html",
+    "group": "V"
+  },
+  {
+    "brand": "wim2023",
+    "url": "https://wim2023brasil.com",
+    "page": "brands/wim2023.html",
+    "group": "W"
+  },
+  {
+    "brand": "wim222",
+    "url": "https://wim222.br.com",
+    "page": "brands/wim222.html",
+    "group": "W"
+  },
+  {
+    "brand": "wim444",
+    "url": "https://wim444.br.com",
+    "page": "brands/wim444.html",
+    "group": "W"
+  },
+  {
+    "brand": "wim777",
+    "url": "https://wim777brasil.com",
+    "page": "brands/wim777.html",
+    "group": "W"
+  },
+  {
+    "brand": "wim888",
+    "url": "https://wim888brasil.com",
+    "page": "brands/wim888.html",
+    "group": "W"
+  },
+  {
+    "brand": "wimni",
+    "url": "https://wimnibrasil.com",
+    "page": "brands/wimni.html",
+    "group": "W"
+  },
+  {
+    "brand": "win22",
+    "url": "https://win22brasil.com",
+    "page": "brands/win22.html",
+    "group": "W"
+  },
+  {
+    "brand": "win23",
+    "url": "https://win23.br.com",
+    "page": "brands/win23.html",
+    "group": "W"
+  },
+  {
+    "brand": "win77",
+    "url": "https://win77brasil.com",
+    "page": "brands/win77.html",
+    "group": "W"
+  },
+  {
+    "brand": "win7b",
+    "url": "https://win7bbrasil.com",
+    "page": "brands/win7b.html",
+    "group": "W"
+  },
+  {
+    "brand": "winbet",
+    "url": "https://winbet.br.com",
+    "page": "brands/winbet.html",
+    "group": "W"
+  },
+  {
+    "brand": "winmi",
+    "url": "https://winmi.br.com",
+    "page": "brands/winmi.html",
+    "group": "W"
+  },
+  {
+    "brand": "winpix",
+    "url": "https://winpix.br.com",
+    "page": "brands/winpix.html",
+    "group": "W"
+  },
+  {
+    "brand": "winvip",
+    "url": "https://winvipbrasil.com",
+    "page": "brands/winvip.html",
+    "group": "W"
+  },
+  {
+    "brand": "winxx",
+    "url": "https://winxx.br.com",
+    "page": "brands/winxx.html",
+    "group": "W"
+  },
+  {
+    "brand": "wjbet",
+    "url": "https://wjbet.br.com",
+    "page": "brands/wjbet.html",
+    "group": "W"
+  },
+  {
+    "brand": "wjcassino",
+    "url": "https://wjcassino.br.com",
+    "page": "brands/wjcassino.html",
+    "group": "W"
+  },
+  {
+    "brand": "x1bet",
+    "url": "https://x1betbrasil.com",
+    "page": "brands/x1bet.html",
+    "group": "X"
+  },
+  {
+    "brand": "xlxwin",
+    "url": "https://xlxwin.br.com",
+    "page": "brands/xlxwin.html",
+    "group": "X"
+  },
+  {
+    "brand": "xtbet",
+    "url": "https://xtbetbrasil.com",
+    "page": "brands/xtbet.html",
+    "group": "X"
+  },
+  {
+    "brand": "xwim",
+    "url": "https://xwim.br.com",
+    "page": "brands/xwim.html",
+    "group": "X"
+  },
+  {
+    "brand": "xxbet",
+    "url": "https://xxbetbrasil.com",
+    "page": "brands/xxbet.html",
+    "group": "X"
+  },
+  {
+    "brand": "xxbr",
+    "url": "https://xxbrbrasil.com",
+    "page": "brands/xxbr.html",
+    "group": "X"
+  },
+  {
+    "brand": "ygjogo",
+    "url": "https://ygjogo.br.com",
+    "page": "brands/ygjogo.html",
+    "group": "Y"
+  },
+  {
+    "brand": "yyslot",
+    "url": "https://yyslotbrasil.com",
+    "page": "brands/yyslot.html",
+    "group": "Y"
+  },
+  {
+    "brand": "yyybet",
+    "url": "https://yyybetbrasil.com",
+    "page": "brands/yyybet.html",
+    "group": "Y"
+  },
+  {
+    "brand": "zbzb",
+    "url": "https://zbzb.br.com",
+    "page": "brands/zbzb.html",
+    "group": "Z"
+  },
+  {
+    "brand": "zz66",
+    "url": "https://zz66.br.com",
+    "page": "brands/zz66.html",
+    "group": "Z"
+  },
+  {
+    "brand": "zz777",
+    "url": "https://zz777.br.com",
+    "page": "brands/zz777.html",
+    "group": "Z"
+  },
+  {
+    "brand": "zzwin",
+    "url": "https://zzwin.br.com",
+    "page": "brands/zzwin.html",
+    "group": "Z"
+  },
+  {
+    "brand": "zzz999",
+    "url": "https://zzz999brasil.com",
+    "page": "brands/zzz999.html",
+    "group": "Z"
+  },
+  {
+    "brand": "zzzz",
+    "url": "https://zzzz.br.com",
+    "page": "brands/zzzz.html",
+    "group": "Z"
   }
 ]
