@@ -1,7 +1,8 @@
 Brand detail page validation
 ============================
-Brand pages: 10
+Brand pages: 501
+Group pages: 36
 Each brand page contains one main external link.
 Each brand page includes overview, access checks, FAQ-style guidance, and responsible gambling notes.
-Sitemap URL count: 11
+Sitemap URL count: 538
 Site URL: https://quangsonngo941-debug.github.io/public-brand-guides/
